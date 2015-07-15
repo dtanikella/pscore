@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PoopScore</string>
+    <string name="title_activity_log_poop">Log_poop</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
 </resources>
