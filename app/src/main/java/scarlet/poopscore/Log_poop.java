@@ -20,6 +20,7 @@ public class Log_poop extends ActionBarActivity {
         getMenuInflater().inflate(R.menu.menu_log_poop, menu);
         return true;
     }
+    //comment whatever
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
